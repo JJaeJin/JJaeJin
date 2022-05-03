@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JJaeJin
 - 👀 I’m interested in making game
-- 🌱 I’m currently learning C++, Data Structure, C++ STL ...
+- 🌱 I’m currently learning C++, Data Structure, C++ STL, Unity, C# Scripts ...
 
 <!---
 JJaeJin/JJaeJin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
